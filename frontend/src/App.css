@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: 30px;
+  color: white;
+}
+
+.other-players {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  flex-direction: row;
+}
+
+p {
+  margin: 10px;
+}

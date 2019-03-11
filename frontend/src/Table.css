@@ -1,0 +1,7 @@
+.table {
+  display: flex;
+  flex-direction: row;
+  flex: 7;
+  align-items: center;
+  justify-content: center;
+}
