@@ -1,5 +1,5 @@
 import React from 'react';
-import './Player.css';
+import '../styles/Player.css';
 import Card from './Card';
 
 const Player = props => {
